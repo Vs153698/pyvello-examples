@@ -2,7 +2,8 @@
 
 Official repository for runnable examples and interactive documentation for [Pyvello](https://pypi.org/project/pyvello/) &mdash; the Python-first AI UI framework with React, shadcn/ui, multi-agent swarms, and automatic graph visualization.
 
-- **Interactive Documentation**: [https://vs153698.github.io/pyvello-examples/](https://vs153698.github.io/pyvello-examples/)
+- **Official Website**: [https://vs153698.github.io/](https://vs153698.github.io/)
+- **Interactive Documentation**: [https://vs153698.github.io/docs/](https://vs153698.github.io/docs/)
 - **PyPI Package**: [https://pypi.org/project/pyvello/](https://pypi.org/project/pyvello/)
 - **Issue Tracker**: [https://github.com/Vs153698/pyvello-examples/issues](https://github.com/Vs153698/pyvello-examples/issues)
 
